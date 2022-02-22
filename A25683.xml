@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ape-gentle-woman, or, The character of an exchange-wench</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25683</idno>
+            <idno type="STC">Wing A3527</idno>
+            <idno type="STC">ESTC R229442</idno>
+            <idno type="EEBO-CITATION">12747701</idno>
+            <idno type="OCLC">ocm 12747701</idno>
+            <idno type="VID">93299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93299)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1029:3 or 2301:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ape-gentle-woman, or, The character of an exchange-wench</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Pye,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with loss of print.</note>
+                  <note>Reproduction of original in the British Library and the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prostitution --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93299:1" rendition="simple:additions"/>
+            <p>Ape-Gentle-vvoman, OR THE CHARACTER OF AN Exchange-wench.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi> 1673</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93299:2"/>
+            <pb n="1" facs="tcp:93299:2" rendition="simple:additions"/>
+            <head>THE Character OF AN EXCHANGE-WENCH.</head>
+            <p>SHe's a Huffing piece of Puff paſt or a bit extraordinary thoſe queaſie Stomachs which can<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t digest a Bawdy-Houſe A <hi>Crycodile</hi> ſtuff'd with Rubbiſh, or the Scene in, <hi>Macb<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> reverſs'd, <hi>viz.</hi> a Beaſt in a Womans S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, A Whore Masquarade, or a trick the Devil intended to out upon the City. She's but one Story above a common Harlot, and when ever ſhe falls from her Shop, drops into a Brothel-houſe. Her carriage is ſo equally divided betwixt a natural Levity, and forc'd Modeſty, that one would take her for a kind of Motly'd Chriſtian, or a new interpoſition betwixt Luſt and Chaſtity, ſhe is haunted with la<g ref="char:EOLhyphen"/>ſcivious thoughts as with Ghoſts, and never dreſſes her ſelf with<g ref="char:EOLhyphen"/>out an abſolute deſign on her own vertue, her greateſt Ingenuity conſiſts in curling up her Towre, and her chiefeſt care in putting it on, for to make it fit right ſhe ſo bedaubs her Brow with Gum,
+<pb n="2" facs="tcp:93299:3"/>and Powder that it gliſters like a <hi>Woodſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Cake, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee dreg'd with Snow. Being an Apprentice ſhe's confin'd to a civil Garb in which ſhe looks like a Fryer in a Peruke, or as the Devil would in a Monks-hood. When ſhe's ready for her Shop, ſhe is ſo for a Tavern; whither ſhe's a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eaſily invited a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Barber to a Bawdy houſe, or a Country Parſon to a Sundays Dinner. She's as fond of a Treat, as the Devil is of a Qua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and ſqueezing her Bubble by the hand thinks ſhe has got him as ſure. If you miſs on her at her Shop, you may find her at the Tavern; but if you ſuſpect her Cully to be either poor or wiſe, you ſhall not fail to find her at the Bracket-houſe.</p>
+            <p>She's a critical thing to deal in; having more Riſes and Falls then Popper or Indico's: She's one Comodity at ſeveral Rates, partial<g ref="char:EOLhyphen"/>ly diſpenſing thoſe favours to one for a Bottle of Claret, which ſhall coſt another a pair of ſilk Stockings, and a treat to boot. She holds the ſame League with Oyl-Men and Vintners, as the <hi>City</hi> Conſtables do with the <hi>Counter Turnekeys,</hi> or as <hi>Subburb</hi> Head-boroughs do with the Juſtices of Peaces Clars, who receive a ſnack for brin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing them cuſtome, ſhe is ſo great an Epicure, that ſhe ſells her honeſty to feed her Luxury, and pawns her very Soul to ſatiſfie her Letchery. A Town-crack that Kiſſes for her Bread, and might ſtarve but for her Buttocks, is a Saint to her; Both her habitation and her apparel like two friendly Sea-marks, forewarn us of our Shipwracks if we ſail in that Channel: But an <hi>Exchange Wench</hi> like a fatal Rock hid under a mild ſuperficies, Ruines a Man before he can ſay, <hi>Lord have mercy upon us.</hi>
+            </p>
+            <p>But to rake up thoſe Dunghils from whence theſe Serpents do proceed; the firſt you muſt know is from an Ale-houſe, and ſhe owns her Original as the Poets ſay <hi>Venus</hi> doth, from froth, not of the Sea, but the tap, which being tunn'd up in the muſty Veſſel of ſome gouty Hoſteſs, lives there 1 Sack upon Carrion; Withal receiving additional nouriſhment from the aequous humours of her ſoul body in ten Months time comes to be drawn off (but leaves ſuch Le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> behind, out of which the Devil, were he turn'd Chymiſt could
+<pb n="3" facs="tcp:93299:3" rendition="simple:additions"/>extract nothing but poyſon) The Lump of Diſtempers being thus produced at eleven or twelve years of Age it is ſent to <hi>Hackney,</hi> where ſhe ſtays no longer then till ſhe has attain'd i'th accompliſh<g ref="char:EOLhyphen"/>ments of gather your Roſe-buds, and offering at a Coopee, and then is call'd home again to learn the neceſſary ingredients of confidence and impudence, which intermixt with her <hi>Hackney</hi> imbelliſhments will ſufficiently accompliſh her for a, <hi>What d'ye want Sir, Bands or Cravats.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſecond ſprings from a lean Vicaridge, whoſe ſmall Benefice and the fear of Widdow-hood, prove ſuch prevalent Padlocks to obſtruct enjoyment that the good folks are fain to lye as quiet in Bed as Statues on tomb-ſtones, till they have contracted a raging luſt which ſcorns Oppoſitions, then they eagerly fall to, never deſiſting till they beget a perfect <hi>Inherirtix</hi> of thoſe <hi>Veneriall</hi> Delights. She is ſpritely beyond immagination, and ſcornes the little <hi>Artifices</hi> of Boarding, or Dancing School ſhould teach her impudence, be<g ref="char:EOLhyphen"/>ing naturally adicted to that Air and Gayetie, which others can't attain without the expence of time and Money: By a particular prerogative derived from her Parents, ſhe anticipates her age, and becomes full fledg'd before her contemporary can get Pen feather<g ref="char:EOLhyphen"/>ed; her Father ſtudying her inclinations, finding them light, be<g ref="char:EOLhyphen"/>ing willing to put her to a Trade agreeable to her humour, wiſely deſigns her for the <hi>Exchange.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he third Dunghil which helps to populate this famous Acade<g ref="char:EOLhyphen"/>my, is the broken Phanatic, and ſhe who comes from hence is a thing ſprung up by Providence, her Father being buſied in the late Civil War, her Mother made bold with the brethren; If they were but Phanaticks ſhe was for them, let them be Independants, and Anabaptiſts, Fifth Monarchy or Quakers. She had more Reli<g ref="char:EOLhyphen"/>gions in her Belly than would furniſh a Library, of which ſhould her daughter retain but a Tenet for every Father, I would defie any Language to give her Heriſie a Name. She was intended for a Gentle woman, but now her Father being ſtript of his Biſhops Lands, and knowing her too ſtout for a Chamber-Maid, reſolves to ſend her to the Exchange.</p>
+            <pb n="4" facs="tcp:93299:4"/>
+            <p>Thus having acquainted you with their Etymology, I will jum<g ref="char:EOLhyphen"/>ble them together, (for I think there is not a T— to chuſe) and give you their deſcription in general.</p>
+            <p>An <hi>Exchange-Wench</hi> is a kind of ſtanding Harlot, whom you may as certainly have at her Shop as a Porter at a Corner, and as willing they are to be employ'd, if they follow either their Parents example, or their own Education, you ſee they have no antipathy to any Vice; but as for Whoring they go to it <hi>Cum Privilegio,</hi> and eſteem it one of the neceſſarieſt Utenſils of their trade. A little before they're bound, the Miſtriſs gives out to all her Merchant Cuſtomers that ſhe has a freſh Face a coming, which makes them floc to her Shop, as to an <hi>Eaſt-India</hi> Sale, and bid as faſt for her Apprentices Maiden head as if it were to be ſold by Inch of Candle, and indeed 'tis little leſs, he always carrying it that bids moſt for it, whether he be <hi>Tur</hi> or <hi>Jew.</hi> When the bargains concluded on, ſhe tells the Girl ſhe muſt ſtudy to be obliging to all her Cuſtomers, eſpecially to <hi>Mr.</hi> — (meaning him with whom ſhe has contracted for her Maiden-head) acquaints her that he's a Perſon of great Worth, and of ſo ſweet a diſpoſition! that if he does but fancy her, 'tis twenty to one but he'l mae her a Woman (a Whore ſhe means) for ever; and withal tells her ſhe muſt carry his Linnen to his Chamber tomorrow morning, the ſilly Girl makes her a Country Curteſie, and promiſes her to be complayſant to all his civil deſires. But he ſoon ſpoyls her exception, for ha<g ref="char:EOLhyphen"/>ving laid an Ambuſh of two or three Bottles of Wine, a Neats tongue, and a little good Language, raiſing her deſires with a lit<g ref="char:EOLhyphen"/>tle ob-Scene deſcription of the ſweets of enjoyment, he tells her the craving Bed invites them to action; where after he has enjoyed her in half an hours time ſends her home as honeſt as her Neighbours.</p>
+            <p>After ſhe has been us'd ſo often, that ſhe's relinquiſhed by the Maſters, ſhe begins to grow ſubtle, and reſolves to revenge her ſelf on their Prentices; of whoſe company ſhe is as fond as a Game<g ref="char:EOLhyphen"/>ſter of Bubble, and with lie cruelty debauches and ruines him at the ſame time. When he viſits her at her Shop, ſhe commends<gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:93299:4" rendition="simple:additions"/>
+               <hi>rf</hi> Play-houſes, <hi>Spring-Garden,</hi> and the Par, and evern deſiſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> has got the Cully to coach her to one of them. Whilee<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> are abroad, ſhe admits hands and Lips fair play, and only <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the laſt favour for his ruine, if ſhe lays hold of his Waterd gufeſha <hi>cobus,</hi> ſhe taes it in jeſt, and keeps it in earneſt, <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>, but as an earneſt for that dear bought pleaſure he intends to ptheaſe, in this Jollity ſhe forgets not to enquire whether he rehs Caſh, which if ſhe find he do, ſhe computer to her ſelf how ponit will laſt She exceed, a <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in policy as a much as a upod Husband does a flaunting Prodigal, ever calculating the pro<g ref="char:EOLhyphen"/>peri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, and protracting the deſtruction of her Bubble, till ſhe's aſ<g ref="char:EOLhyphen"/>ſooed of another to ſupply his place, and then as if ſhe repented her unrmer mildneſs, like a Lyon arrived at his cruel Age, ſhe falls on, and devours the <hi>Puppy</hi> ſhe hut play'd with before.</p>
+            <p>In ſhort her ſmiles are more treacherous then a Crocodiles tears, and her dalliances more dangerous then the imbraces of a Serpent. She has as many Gallants as acquaintance, and whilſt ſhe proſtitutes her body to one of them ſwears by her Soul ſhe was never con<g ref="char:EOLhyphen"/>cern<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with the reſt, which the Bubble believes, till meeting with ſome of his Brother-<hi>Starlings</hi> (for by this time ſhe has ruin'd moſt of them) and comparing Notes, they are fully convinc'd ſhe hath been equally perfidious to them all. This diſcovery renders her no<g ref="char:EOLhyphen"/>torious and totally divers her of her City acquaintance, ſo that wanting the convenience of her former Jnn ets, and being by an accuſtomated le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dneſs rendred uncapable of confining to the ſtricter method of a civil Life, her Rigging too beginning to be ſcandalous ſhe quite the City to ſeek relief in the Fields, where ſhe petitions the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo their Letters of commendation to <hi>Moll</hi> — who thereupon moſt graciouſly receive her into the Society of her Hac neys, where like a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhe blazest <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> con<g ref="char:EOLunhyphen"/>ſumed and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> turned out of Doors carrie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> along with her, one may ſmall her from <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="apology">
+            <pb n="6" facs="tcp:93299:5"/>
+            <head>The Apology.</head>
+            <l>As in tart Prologues, Poets ſhew their Wit,</l>
+            <l>In r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ling Gen'rally at all the pit,</l>
+            <l>Although they know their's ſome of ſuch eſteem</l>
+            <l>They would not ſpeak an evil word of them.</l>
+            <l>So Ladyes when I writ this character</l>
+            <l>As for the Vertuous I deſign'd not her</l>
+            <l>I only aim'd at the <hi>Laſciviou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jilt;</hi>
+            </l>
+            <l>So ſhe that takes Exceptions ſhows her guilt</l>
+            <l>But you would all be modeſt,— pray to be</l>
+            <l>For thou <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>' m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſure your unconcern'd with me.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93299:5"/>
+            <pb facs="tcp:93299:6"/>
+            <pb facs="tcp:93299:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
